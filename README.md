@@ -4,7 +4,7 @@ A simple Javascript/TypeScript language server plugin for
 [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim).
 
 I almost code nothing for this plugin. It's just a package for easy setup,
-which uses the great [javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver).
+which uses the great [javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver) and [vue-language-server](github.com/vuejs/vetur).
 
 ## Installation
 
