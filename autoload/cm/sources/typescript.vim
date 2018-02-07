@@ -3,6 +3,7 @@ func! cm#source#typescript#register()
     call cm#register_source({'name': 'cm-ts',
                 \ 'priority': 9,
                 \ 'scopes': scopes,
+                \ 'word_pattern': '[\w\-\$]+'
                 \ 'abbreviation': 'ts',
                 \ 'cm_refresh_patterns':['\.', '::']
                 \ })
